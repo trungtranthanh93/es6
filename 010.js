@@ -10,6 +10,11 @@ claim(robot.smart, __);
 module.exports = {
 	robot: robot
 }
+
 function test1(argument) {
 	return 0;
 }
+function test2(argument) {
+	return 9;
+}
+
