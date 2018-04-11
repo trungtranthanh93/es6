@@ -18,3 +18,6 @@ function test2(argument) {
 	return test2;
 }
 
+function test3(sss){
+	return test3;
+}
