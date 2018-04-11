@@ -15,6 +15,6 @@ function test1(argument) {
 	return 0;
 }
 function test2(argument) {
-	return 9;
+	return test2;
 }
 
