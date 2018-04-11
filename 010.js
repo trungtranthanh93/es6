@@ -12,7 +12,7 @@ module.exports = {
 }
 
 function test1(argument) {
-	return 0;
+	return test1;
 }
 function test2(argument) {
 	return 9;
